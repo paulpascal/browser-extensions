@@ -43,7 +43,7 @@
     "zod": "^3.20.2"
   },
   "devDependencies": {
-    "@plasmohq/prettier-plugin-sort-imports": "3.6.1",
+    "@plasmohq/prettier-plugin-sort-imports": "3.6.4",
     "@tailwindcss/typography": "^0.5.9",
     "@types/chrome": "0.0.210",
     "@types/node": "18.11.18",
