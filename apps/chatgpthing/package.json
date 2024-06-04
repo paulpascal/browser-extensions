@@ -22,7 +22,7 @@
     "@trpc/react-query": "^10.9.1",
     "@trpc/server": "^10.9.1",
     "chatgpt": "workspace:*",
-    "class-variance-authority": "^0.4.0",
+    "class-variance-authority": "^0.7.0",
     "clsx": "^1.2.1",
     "eventsource-parser": "^0.1.0",
     "expiry-map": "^2.0.0",
